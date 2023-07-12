@@ -1,6 +1,6 @@
 # Tims
-This is a project I want to work on
-Its an E-commerce websit I've been thinking of working on for my mum and sister
+This is a project I want to work on so I'm gonna practice BootStrap5 on it
+Its an E-commerce websit I've been thinking of working on as a personal project
 It should have every aspect of an E-commerce website you know
 If you've read this far thank you for reading.....
 
